@@ -11,5 +11,5 @@ Specifically repository contains:  <br/>
 -Airbnb_Stat.ipynb, an ipynb file with homework executed code and outputs  <br/>
 -map.html, wich contains an example output map of bonus point of the homework  <br/>
 
-https://nbviewer.jupyter.org/github/francesca15/ADM_HW3_14/blob/master/AirBnb_Stat.ipynb
+https://nbviewer.jupyter.org/github/francesca15/ADM_HW3_14/blob/master/AirBnb_Stat.ipynb <br/>
 https://nbviewer.jupyter.org/github/francesca15/ADM_HW3_14/blob/master/map.html
